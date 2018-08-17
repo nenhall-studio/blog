@@ -1,5 +1,1 @@
 theme: jekyll-theme-minimal
-deploy:
-  type: git
-  repo: git@github.com:nenhall-studio/blog.git
-  branch: master
